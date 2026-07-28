@@ -3,24 +3,24 @@
 
 ## Identificação
 
-- Nome:
-- Turma:
+- Nome:david bryan becker
+- Turma:6an
 - Curso: Engenharia de Software
 
 ## Meu conhecimento atual
 
-Descreva brevemente sua experiência com desenvolvimento de software.
+bastante mas ainda não o suficiente para trabalhar com isso.
 
 ## Minhas expectativas
 
-Descreva o que espera aprender na disciplina.
+aprender mais
 
 ## Área de interesse
 
-Informe em qual área de tecnologia pretende atuar ou possui maior interesse.
+banco de dados e gestão de projetos.
 
 ## O que considero um software bem projetado?
 
-Escreva uma resposta curta utilizando suas próprias palavras.
+Um software que pode ser flexionado por varias situações no futuro e não quebrar
 
 Neste campo, escreva: "Li e utilizei a estrutura solicitada".
